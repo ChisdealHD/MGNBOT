@@ -1,0 +1,7 @@
+﻿{
+  "token": "BOTTOKEN",
+  "prefix": "Prefix",
+  "youtube_api_key": "YoutubeAPI",
+  "owner_id": "OWNERID",
+  "admins": ["admin1","admin2","admin3"]
+}
