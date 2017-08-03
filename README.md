@@ -1,0 +1,2 @@
+# MGNBOT
+MGN Discord BOT!
