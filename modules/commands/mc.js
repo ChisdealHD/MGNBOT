@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const config = require('../../config.json');
 const prefix = config.prefix;
-const request = require("Request");
+const request = require("request");
 
 module.exports = (bot) => {
 	bot.addTraditionalCommand("mcstats", message => {
